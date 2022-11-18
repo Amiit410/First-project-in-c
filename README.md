@@ -1,2 +1,3 @@
-# First-project-in-c
-Calculator
+# project-in-c
+Basic Calculator
+Age calculator in c
