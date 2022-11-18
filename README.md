@@ -1,3 +1,3 @@
 # project-in-c
-Basic Calculator
+Basic Calculator/
 Age calculator in c
